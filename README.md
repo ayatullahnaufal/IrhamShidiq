@@ -6,7 +6,7 @@
 <a href="https://www.facebook.com/irhamshidiq.7/">
   <img align="left" alt="IrhamShidiq's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://dribbble.com/IrhamShidiq">
+<a href="https://dribbble.com/ayatullahnfl">
   <img align="left" alt="IrhamShidiq's Dribbble" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" />
 </a>
 
